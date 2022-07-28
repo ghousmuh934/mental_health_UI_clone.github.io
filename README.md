@@ -18,4 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 # Output
 
-![Mental Health App Clone](https://user-images.githubusercontent.com/106868350/180423908-9f244d7c-9b25-4980-b9de-eadee3c5e2bb.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/106868350/180423908-9f244d7c-9b25-4980-b9de-eadee3c5e2bb.png" width="400" height="840" />
+</p>
+
+
